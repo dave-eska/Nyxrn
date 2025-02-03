@@ -37,3 +37,14 @@
     -start_monitor.sh
 
     -tmux_session --lang {project_name}
+
+## How To Use
+
+1). Clone This Repo Using Youre Preferred Method
+
+2). Inside The Repo Directory, Run:
+
+    mkdir ~/Pictures/wallpaper
+    mv *.png ~/Pictrures/wallpaper
+    mv -r * ~/.config/
+    # Then, logout/reboot and relaunch hyprland
