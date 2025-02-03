@@ -1,0 +1,11 @@
+
+2024/12/14 (19:12:25) | ===> btop++ v.1.4.0
+2024/12/14 (19:12:25) | ERROR: No tty detected!
+btop++ needs an interactive shell to run.
+
+2024/12/14 (23:50:51) | ===> btop++ v.1.4.0
+2024/12/14 (23:50:51) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2024/12/14 (23:50:51) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2024/12/14 (23:50:52) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2024/12/14 (23:50:53) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2024/12/14 (23:50:54) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
